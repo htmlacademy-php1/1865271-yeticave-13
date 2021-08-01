@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Irina Podzemelnaya](https://up.htmlacademy.ru/php/13/user/1865271).
-* Наставник: `Неизвестно`.
+* Наставник: [Анатолий Пашин](https://htmlacademy.ru/profile/id1200767).
 
 ---
 
